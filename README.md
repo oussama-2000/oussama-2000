@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm oussama</h1>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk1czY0bzlpeDRrN3J6bjhoYzdicWRiZDdzcnl1bnNuZ3o2aGV1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 <h3 align="center">Welcome to my GitHub! I’m oussama, a passionate developer exploring full-stack development, and open-source projects</h3>
 
-- 👨‍💻 All of my projects are available at [oussama-2000.github.io/portfolio/](oussama-2000.github.io/portfolio/)
+- All of my projects are available at [oussama-2000.github.io/portfolio/](oussama-2000.github.io/portfolio/)
 
-- 📫 How to reach me **oamkhou@gmail.com**
+- How to reach me **oamkhou@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/oussama-amkhou-87a82b2ba](linkedin.com/in/oussama-amkhou-87a82b2ba)
+- Know about my experiences [linkedin.com/in/oussama-amkhou-87a82b2ba](linkedin.com/in/oussama-amkhou-87a82b2ba)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +14,7 @@
 <a href="https://instagram.com/https://www.instagram.com/amk.oussama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amk.oussama/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 ### 🖥️ Frontend
 <p align="left">
@@ -46,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -91,4 +92,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
 </p>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
