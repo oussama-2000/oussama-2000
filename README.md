@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm oussama</h1>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/oamkhou" alt="oamkhou's 42 stats" /></a>
+
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk1czY0bzlpeDRrN3J6bjhoYzdicWRiZDdzcnl1bnNuZ3o2aGV1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 <h3 align="center">Welcome to my GitHub! I’m oussama, a passionate developer exploring full-stack development, and open-source projects</h3>
 
