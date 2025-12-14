@@ -6,16 +6,16 @@
   <img src="https://badge.mediaplus.ma/starryblue/oamkhou" alt="oamkhou's 42 stats" />
 </p>
 
-- All of my projects are available at [oussama-2000.github.io/portfolio/](oussama-2000.github.io/portfolio/)
+- All of my projects are available at [my portfolio](oussama-2000.github.io/portfolio/)
 
 - How to reach me **oamkhou@gmail.com**
 
-- Know about my experiences [linkedin.com/in/oussama-amkhou-87a82b2ba](linkedin.com/in/oussama-amkhou-87a82b2ba)
+- Know about my experiences [linkedin](linkedin.com/in/oussama-amkhou-87a82b2ba)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/oussama-amkhou-87a82b2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oussama-amkhou-87a82b2ba" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/amk.oussama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amk.oussama/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oussama-amkhou-87a82b2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/oussama-amkhou-87a82b2ba" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amk.oussama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amk.oussama/" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
