@@ -6,11 +6,11 @@
   <img src="https://badge.mediaplus.ma/starryblue/oamkhou" alt="oamkhou's 42 stats" />
 </p>
 
-- All of my projects are available at [my portfolio](oussama-2000.github.io/portfolio/)
+- All of my projects are available at <a href="https://github.com/oussama-2000.github.io/portfolio/" target="blank">my portfolio</a>
 
 - How to reach me **oamkhou@gmail.com**
 
-- Know about my experiences [linkedin](linkedin.com/in/oussama-amkhou-87a82b2ba)
+- Know about my experiences <a href="https://linkedin.com/in/oussama-amkhou-87a82b2ba" target="blank" > my experiences </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
