@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm oussama</h1>
 
 
-<h3 align="center">Welcome to my GitHub! I’m oussama, a passionate developer exploring full-stack development, and open-source projects</h3>
+<h3 align="center">Welcome to my GitHub! I’m oussama, a passionate developer exploring full stack development, and open source projects</h3>
 <p align="center">
   <img src="https://badge.mediaplus.ma/starryblue/oamkhou" alt="oamkhou's 42 stats" />
 </p>
